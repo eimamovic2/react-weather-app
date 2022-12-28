@@ -3,7 +3,11 @@ body {
   font-family: "Roboto", Arial !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #d5d4d4;
+  background-image: url("../public/icons/landscape.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 code {
